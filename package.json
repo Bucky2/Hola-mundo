@@ -1,0 +1,21 @@
+{
+  "name": "utng",
+  "version": "1.0.0",
+  "description": "Test Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "prueba"
+  ],
+  "author": "Cristian Israel Buclon Pedroza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0"
+  }
+}
